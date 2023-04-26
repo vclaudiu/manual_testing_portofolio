@@ -43,11 +43,11 @@ Testing Admin/Job Module with Subcategories: Job Titles, Pay Grades, Employment 
 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
-The test cases with steps can be viewed here: test_cases.[Test cases.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11330880/Test.cases.pdf)
-pdf
+The test cases with steps can be viewed here: [Test cases.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11330880/Test.cases.pdf)
 
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
+
 
 enter here what needs to be ready for the test execution to begin
 1.6 Test Execution
