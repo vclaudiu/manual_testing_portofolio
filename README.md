@@ -42,14 +42,11 @@ The testing process will be executed based on the above requirements for the Dep
 Testing Admin/Job Module with Subcategories: Job Titles, Pay Grades, Employment Status, Job Categories, Work Shifts
 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
-
 The test cases with steps can be viewed here: [Test cases.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11330880/Test.cases.pdf)
-
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
+-Preparing test data and ensuring it is correct : test conditions, test cases, test procedures, and test suites
 
-
-enter here what needs to be ready for the test execution to begin
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
