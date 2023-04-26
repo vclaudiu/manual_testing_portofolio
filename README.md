@@ -1,7 +1,8 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers)
-API Documentation:
+
+API Documentation:[https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md](url)
 
 The final project will be split into 2 sections: Testing section and SQL section.
 
