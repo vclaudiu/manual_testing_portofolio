@@ -48,7 +48,7 @@ The following elements are needed to be ready before the test execution phase be
 -Preparing test data and ensuring it is correct : test conditions, test cases, test procedures, and test suites
 
 1.6 Test Execution
-Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
+Test cases are executed on the created test Cycle summary:[Cycle summary.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11331077/Cycle.summary.pdf)
 Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
 enter here bug titles
 1.7 Test Completion
