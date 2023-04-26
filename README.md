@@ -8,14 +8,14 @@ The final project will be split into 2 sections: Testing section and SQL section
 
 Tools used: JIRA,Postman, MySQL Workbench
 
-**Functional specifications**
+Functional specifications
 Work Shifts
 Job Categories Module
 Employment Status Module
 Pay grade Module
 Job Titles
 
-**1 Testing section**
+1 Testing section
 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Admin module/Job section from the OrangeHRM application.
 
@@ -29,7 +29,7 @@ Tests in scope:Admin/Job Module with Job Titles, Pay Grades, Employment Status, 
 Tests not in scope: Other Modules/Functionality.
 
 1.1.5 Risks detected
-Project risks:Imposibility to fix all bugs,unexperienced tester
+Project risks:Imposibility to fix all bugs,unexperienced tester, Zephyr Squad trial license
 Product risks:posibility for the application to not work constant
 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
@@ -49,8 +49,10 @@ The following elements are needed to be ready before the test execution phase be
 
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary:[Cycle summary.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11331077/Cycle.summary.pdf)
+
 Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
 enter here bug titles
+
 1.7 Test Completion
 Exit criteria was evaluated and passed
 The traceability matrix was generated and can be found here: Traceability_matrix.csv
