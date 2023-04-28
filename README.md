@@ -9,12 +9,25 @@ The final project will be split into 2 sections: Testing section and SQL section
 Tools used: JIRA,Postman, MySQL Workbench
 
 Functional specifications
-Work Shifts
-Job Categories Module
-Employment Status Module
-Pay grade Module
-Job Titles
+Description
 
+The Admin Module provides you with full control of all settings that affect the action of your OrangeHRM implementation. Through the Admin Module, you can:
+
+●       Define the company hierarchy, pay grades, work shifts, projects, memberships, qualifications etc.
+●       Add other administrators, and set access levels for each user
+●       Handle security issues
+●       Configure email notifications
+●       Configure language localization and date format that will be reflected throughout the whole system.
+●       Enable/Disable Module display
+
+The Admin Module is the central control of the system and setting it up accurately is important for smooth operation.
+The Admin Module consists of:
+User Management: Add multiple HR Admins who will control the system, create logins for general users through ESS Users.
+Job: Allows the HR admin to define job titles, specifications, pay grades, employment status, job categories and work shifts.
+Organization: Allows the HR admin to enter/store general company info, structure of the organization and locations of sites.
+Qualifications: Define various skills set, education background, license types, languages and memberships.
+Nationalities: Define different nationalities
+Configuration: Configure all email notifications, language localization and enable/disable module display.
 1 Testing section
 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Admin module/Job section from the OrangeHRM application.
@@ -55,7 +68,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 1.7 Test Completion
 Exit criteria was evaluated and passed
 The traceability matrix was generated and can be found here:[Forward Traceability.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356205/Forward.Traceability.pdf)
-Test execution chart was generated, the final report shows.... -> describe the final report
--> enter here test execution report/chart
+Test execution chart was generated, the final report that 4 bugs has been found from 6 test executed. [test execution.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356767/test.execution.pdf)
 
 2 SQL section
+
