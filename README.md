@@ -48,7 +48,8 @@ Product risks:posibility for the application to not work constant
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 1.2 Test Monitoring and Control
-It will be done by generating periodic reports that reflect the current status of the test.[execution list.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356110/execution.list.pdf)
+It will be done by generating periodic reports that reflect the current status of the test.[test executions.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11511368/test.executions.pdf)
+
 
 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Job module. The following test conditions were found:
