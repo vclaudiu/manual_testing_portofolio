@@ -56,19 +56,23 @@ Testing Admin/Job Module with Subcategories: Job Titles, Pay Grades, Employment 
 
 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
-The test cases with steps can be viewed here: [Test cases.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11330880/Test.cases.pdf)
+The test cases with steps can be viewed here: ![test cases](https://github.com/vclaudiu/manual_testing_portofolio/assets/129111494/754c5670-549a-40f2-b661-7553ffa46a11)
+
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 -Preparing test data and ensuring it is correct : test conditions, test cases, test procedures, and test suites
 
 1.6 Test Execution
 Test cases are executed on the created test Cycle summary:[Cycle summary.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11331077/Cycle.summary.pdf)
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [defects.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356185/defects.pdf)
+Bugs have been created based on the failed tests. The complete bug report can be found here: ![3](
+
 
 1.7 Test Completion
-Exit criteria was evaluated and passed
-The traceability matrix was generated and can be found here:[Forward Traceability.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356205/Forward.Traceability.pdf)
-Test execution chart was generated, the final report that 4 bugs has been found from 6 test executed. [test execution.pdf](https://github.com/vclaudiu/manual_testing_portofolio/files/11356767/test.execution.pdf)
+Exit criteria was evaluated and passed!
+The traceability matrix was generated and can be found here:![Forward Traceability](https://github.com/vclaudiu/manual_testing_portofolio/assets/129111494/2517f408-3a12-42c7-a7e7-1c711b901d90)
+
+Test execution chart was generated, the final report that 1 bug has been found from 6 test executed.![execution chart](https://github.com/vclaudiu/manual_testing_portofolio/assets/129111494/e18f9e6b-055e-4132-a2e6-a6679330dd8f)
+
 
 2 SQL section
 
